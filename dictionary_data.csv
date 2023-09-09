@@ -1,24 +1,24 @@
 es,de,en
 Conectiva lógica,Logische Verknüpfung,Logical connective
-Base (álgebra),Basis (Vektorraum),Basis (linear algebra)
+Base,Basis,Basis
 Operación ternaria,Ternärer Operator,Ternary operation
 Lógica de descripción,Beschreibungslogik,Description logic
 Lista,Liste,List
 Separador decimal,Dezimaltrennzeichen,Decimal point
-Equivalencia de categorías,Äquivalenz (Kategorientheorie),Equivalence of categories
+Equivalencia de categorías,Äquivalenz,Equivalence of categories
 Teorema de Swan,Satz von Serre und Swan,Swan's theorem
 Distributividad,Distributivgesetz,Distributivity
 Complemento a uno,Einerkomplement,Ones' complement
-Intervalo (matemática),Intervall (Mathematik),Interval (mathematics)
+Intervalo,Intervall,Interval
 Anillo conmutativo,Kommutativer Ring,Commutative ring
 Geometría sintética,Synthetische Geometrie,Synthetic geometry
-Límite de una función,Grenzwert (Funktion),Limit of a function
+Límite de una función,Grenzwert,Limit of a function
 Verdad lógica,Logische Wahrheit,Logical truth
 Álgebra lineal,Lineare Algebra,Linear algebra
 Módulo proyectivo,Projektiver Modul,Projective module
 Razón,Vernunft,Reason
 Negación lógica,Negation,Negation
-Identidad (matemática),Identitätsgleichung,Identity (mathematics)
+Identidad,Identitätsgleichung,Identity
 Geometría binacional,Birationale Äquivalenz,Birational geometry
 Antinomia,Antinomie,Antinomy
 Número natural,Natürliche Zahl,Natural number
@@ -26,12 +26,12 @@ Clausura algebraica,Algebraischer Abschluss,Algebraic closure
 Referencia,Referenz,Reference
 Lenguaje formal,Formale Sprache,Formal language
 Clausura normal,Normaler Abschluss,Normal closure
-Límite de una sucesión,Grenzwert (Folge),Limit of a sequence
+Límite de una sucesión,Grenzwert,Limit of a sequence
 Teorema del emparedado,Einschnürungssatz,Squeeze theorem
 Aritmética modular,Modulo Rechnung,Modular arithmetic
 Fibrado vectorial,Vektorbündel,Vector bundle
 Sistema de ecuaciones lineales,Lineares Gleichungssystem,Systems of linear equations
-Asociatividad (álgebra),Assoziativgesetz,Associativity
+Asociatividad,Assoziativgesetz,Associativity
 Elemento neutro,Neutrales Element,Identity element
 Fracción,Bruchrechnung,Fraction
 Ángulo,Winkel,Angle
@@ -41,43 +41,43 @@ Elemento simétrico,Inverses Element,Invertible element
 Sistema de numeración decimal,Dezimalsystem,Decimal fractions
 Multiplicación,Multiplikation,Multiplication
 Elemento absorbente,Absorbierendes Element,Absorbing element
-Ideal (teoría de anillos),Ideal (Ringtheorie),Ring ideal
+Ideal,Ideal,Ring ideal
 Disyunción lógica,Disjunktion,Disjunction
-Forma indeterminada,Unbestimmter Ausdruck (Mathematik),Indeterminate form
+Forma indeterminada,Unbestimmter Ausdruck,Indeterminate form
 Bicondicional,Bikonditional,Biconditional
 Paradoja,Paradoxon,Paradox
-División (matemática),Division (Mathematik),Division (mathematics)
-Disyunción lógica,Disjunktion,Or (logic)
+División,Division,Division
+Disyunción lógica,Disjunktion,Or
 Hiperoperación,Hyper-Operator,Hyperoperation
 Geometría discreta,Diskrete Geometrie,Discrete geometry
 Valor de verdad,Wahrheitswert,Truth value
 Sistema de numeración,Zahlensystem,Numeral system
-Radical de un ideal,Radikal (Mathematik),Radical of an ideal
+Radical de un ideal,Radikal,Radical of an ideal
 Decaimiento exponencial,Exponentieller Prozess,Exponential decay
 Proposición analítica,Analytisches Urteil,Analytic proposition
 Geometría analítica,Analytische Geometrie,Analytic geometry
-Función (matemática),Funktion (Mathematik),Function (mathematics)
+Función,Funktion,Function
 Conmutatividad,Kommutativgesetz,Commutativity
 Distributividad,Distributivgesetz,Distributive property
 Función infinitamente diferenciable,Glatte Funktion,Smooth function
-Cuerpo (matemáticas),Körper (Algebra),Field (algebra)
+Cuerpo/Campo,Körper,Field
 Geometría constructiva de sólidos,Constructive Solid Geometry,Constructive solid geometry
 Espacio vectorial,Vektorraum,Vector space
-Consecuencia lógica,Ableitung (Logik),Logical implication
+Consecuencia lógica,Ableitung,Logical implication
 Campo tensorial,Tensorfeld,Tensor field
 Número decimal periódico,Rationale Zahl,Repeating decimal
-Clase (teoría de conjuntos),Klasse (Mengenlehre),Class (set theory)
-Matriz (matemática),Matrix (Mathematik),Matrix (mathematics)
-Involución (matemática),Involution (Mathematik),Involution (mathematics)
+Clase,Klasse,Class
+Matriz,Matrix,Matrix
+Involución,Involution,Involution
 Geometría computacional,Algorithmische Geometrie,Computational geometry
 Envolvente convexa,Konvexe Hülle,Convex hull
 Condición necesaria y suficiente,Notwendige und hinreichende Bedingung,Necessary and sufficient condition
 Convexidad,Konvexe Menge,Convex set
 Geometría proyectiva,Projektive Geometrie,Projective geometry
 Algebra booleana de dos elementos,Schaltalgebra,Two-element Boolean algebra
-Consecuencia lógica,Ableitung (Logik),Entailment
+Consecuencia lógica,Ableitung,Entailment
 Fractal,Fraktal,Fractal geometry
-Cuantificador,Quantor,Quantification (logic)
+Cuantificador,Quantor,Quantification
 Módulo libre,Freier Modul,Free module
 Conjunto vacío,Leere Menge,Empty set
 Geometría de Riemann,Riemannsche Geometrie,Riemannian geometry
@@ -95,20 +95,20 @@ Geometría de números,Geometrische Zahlentheorie,Geometry of numbers
 Geometría compleja,Komplexe Geometrie,Complex geometry
 Valor facial,Nennwert,Face value
 Geometría afín,Affine Geometrie,Affine geometry
-Razón (matemática),Verhältnis (Mathematik),Ratio
+Razón,Verhältnis,Ratio
 Operación binaria,Zweistellige Verknüpfung,Binary operation
 Operadores de incremento y decremento,Inkrement und Dekrement,Increment and decrement operators
 Función continua,Stetige Funktion,Continuous function
-Relación matemática,Relation (Mathematik),Relation
+Relación matemática,Relation,Relation
 Conmutatividad,Kommutativgesetz,Commutative property
 Geometría de las transformaciones,Abbildungsgeometrie,Transformation geometry
 Clasificador de subobjetos,Unterobjekt-Klassifizierer,Subobject classifier
 Fracción unitaria,Stammbruch,Unit fraction
-Identidad (filosofía),Identität,Identity (philosophy)
+Identidad,Identität,Identity
 Elemento simétrico,Inverses Element,Inverse element
 Matroide,Matroid,Matroid
 Multiplicación escalar,Skalarmultiplikation,Scalar multiplication
-Desigualdad matemática,Ungleichung,Inequality (mathematics)
+Desigualdad matemática,Ungleichung,Inequality
 Descripción,Beschreibung,Description
 Geometría Epipolar,Epipolargeometrie,Epipolar geometry
 Monoide,Monoid,Monoid
@@ -116,19 +116,19 @@ Conjunto numerable,Abzählbare Menge,Countable
 Operación unaria,Einstellige Verknüpfung,Unary operation
 Conjunción,Konjunktion,Conjunction
 Geometría algebraica,Algebraische Geometrie,Algebraic geometry
-Conjunción lógica,Konjunktion (Logik),And (logic)
-Cuadrado (álgebra),Quadrat (Mathematik),Square (algebra)
+Conjunción lógica,Konjunktion,And
+Cuadrado,Quadrat,Square
 Función de verdad,Wahrheitswertefunktion,Truth-functional
 Nombre,Name,Name
-Número e,Eulersche Zahl,E (mathematical constant)
+Número e,Eulersche Zahl,E
 Geometría euclidiana,Euklidische Geometrie,Euclidean geometry
 Geometría esférica,Sphärische Geometrie,Spherical geometry
-Clausura algebraica,Abgeschlossenheit (algebraische Struktur),Closure (mathematics)
+Clausura algebraica,Abgeschlossenheit,Closure
 Semántica,Semantik,Semantics
 Inverso multiplicativo,Kehrwert,Multiplicative inverse
 Geometría hiperbólica,Hyperbolische Geometrie,Hyperbolic geometry
 Álgebra de conjuntos,Algebra der Mengen,Algebra of sets
-Conjunción lógica,Konjunktion (Logik),Logical conjunction
+Conjunción lógica,Konjunktion,Logical conjunction
 Cuasigrupo,Quasigruppe,Quasigroup
 Geometría elíptica,Elliptische Geometrie,Elliptic geometry
 Anillo de polinomios,Polynomring,Polynomial ring
@@ -136,14 +136,14 @@ Estructura algebraica,Algebraische Struktur,Underlying set
 Disyunción lógica,Disjunktion,Logical or
 Aritmética elemental,Grundrechenart,Elementary arithmetic
 Morfismo,Morphismus,Morphism
-Grupo (matemática),Gruppe (Mathematik),Group (mathematics)
+Grupo,Gruppe,Group
 Forma canónica de Jordan,Jordansche Normalform,Jordan normal form
 Cero,Null,Zero
 Aplicación lineal,Lineare Abbildung,Linear map
-Conjugado (matemática),Konjugation (Mathematik),Complex conjugate
+Conjugado,Konjugation,Complex conjugate
 Número entero,Ganze Zahl,Integer
 Presuposición,Präsupposition,Presupposition
-Conjunción lógica,Konjunktion (Logik),Logical and
+Conjunción lógica,Konjunktion,Logical and
 Geometría convexa,Konvexgeometrie,Convex geometry
 Verdad,Wahrheit,Truth
 Media aritmético-geométrica,Arithmetisch-geometrisches Mittel,Arithmetic–geometric mean
@@ -154,15 +154,14 @@ Geometría integral,Integralgeometrie,Integral geometry
 Conjunto transitivo,Transitive Menge,Transitive set
 Notación de infijo,Infixnotation,Infix notation
 Geometría finita,Endliche Geometrie,Finite geometry
-Hipérbola,Hyperbel (Mathematik),Hyperbola
+Hipérbola,Hyperbel,Hyperbola
 Opuesto,Gegenzahl,Additive inverse
 Bicondicional,Zweiseitige Implikation,If and only if
-Conjunto unitario,Einelementige Menge,Singleton (mathematics)
+Conjunto unitario,Einelementige Menge,Singleton
 Geometría,Geometrie,Geometry
 Forma canónica racional,Frobenius-Normalform,Rational canonical form
 Geometría no euclidiana,Nichteuklidische Geometrie,Non-Euclidean geometry
 Condicional material,Subjunktion,Material conditional
-Análisis matemático,Analysis,Mathematical analysis
 Cuantificador existencial,Existenzaussage,Existential quantification
 Geometría diferencial,Differentialgeometrie,Differential geometry
 Teoría de la probabilidad,Wahrscheinlichkeitstheorie,Probability theory
@@ -173,12 +172,12 @@ Geometría absoluta,Absolute Geometrie,Absolute geometry
 Mundo posible,Mögliche Welt,Possible world
 Dominio de integridad,Integritätsring,Integral domain
 Definición,Definition,Definition
-Unión de conjuntos,Vereinigungsmenge,Union (set theory)
-Operador,Operator (Mathematik),Operator (mathematics)
+Unión de conjuntos,Vereinigungsmenge,Union
+Operador,Operator,Operator
 Cuantificador universal,Allaussage,Given any
 Forma diferencial,Differentialform,Differential form
 Orden de evaluación,Operatorrangfolge,Order of operations
-Validez (lógica),Allgemeingültigkeit,Validity (logic)
+Validez,Allgemeingültigkeit,Validity
 Campo vectorial,Vektorfeld,Vector field
 Clausura de Kleene,Kleenesche und positive Hülle,Kleene closure
 Sistema de numeración decimal,Dezimalsystem,Decimal arithmetic
@@ -193,17 +192,17 @@ Función identidad,Identische Abbildung,Identity function
 Variedad diferenciable,Differenzierbare Mannigfaltigkeit,Smooth manifold
 Geometría de incidencia,Inzidenzgeometrie,Incidence geometry
 Razón,Vernunft,Reasoning
-Consecuencia lógica,Ableitung (Logik),Logical consequence
+Consecuencia lógica,Ableitung,Logical consequence
 Cuerpo finito,Endlicher Körper,Finite field
 Arcotangente de dos parámetros,Arctan2,Atan2
-Cuerpo (matemáticas),Körper (Algebra),Field (mathematics)
+Cuerpo,Körper,Field
 Grupo de Grothendieck,Grothendieck-Gruppe,Grothendieck group
-Adición (matemática),Addition,Addition
-Conjunto,Menge (Mathematik),Set (mathematics)
+Adición,Addition,Addition
+Conjunto,Menge,Set
 Grupo abeliano,Abelsche Gruppe,Abelian group
 Cuantificador universal,Allaussage,Universal quantification
-Torsión (álgebra),Torsion (Algebra),Torsion element
-Intersección de conjuntos,Schnittmenge,Intersection (set theory)
+Torsión,Torsion,Torsion element
+Intersección de conjuntos,Schnittmenge,Intersection
 Significado,Bedeutung,Meaning
 Número racional,Rationale Zahl,Rational number
 Teoría de grupos,Gruppentheorie,Group theory
@@ -215,10 +214,154 @@ Geometría del taxista,Manhattan-Metrik,Taxicab geometry
 Geometría no conmutativa,Nichtkommutative Geometrie,Noncommutative geometry
 Subcociente,Subquotient,Subquotient
 Geometría discreta,Diskrete Geometrie,Discrete geometry
-Categoría (matemáticas),Lokal kleine Kategorie,Category (mathematics)
-Relación finita matemática,Endlische Relation (Mathematik),Finitary relation
-Límite de una función,Grenzwert (Funktion),"(ε, δ)-definition of limit"
-Límite (matemática),Grenzwert,Limit (mathematics)
-Polo (análisis complejo),Polstelle,Zeros and poles
+Categoría,Lokal kleine Kategorie,Category
+Relación finita matemática,Endlische Relation,Finitary relation
+Límite de una función,Grenzwert,"(ε,δ)-definition of limit"
+Límite,Grenzwert,Limit
+Polo,Polstelle,Zeros and poles
 A priori y a posteriori,Vor und nach,A priori and a posteriori
 Límite superior y límite inferior,Limes superior und Limes inferior,Limit superior and limit inferior
+Suma,Addition,Addition
+Resta,Subtraktion,Subtraction
+Multiplicación,Multiplikation,Multiplication
+División,Division,Division
+Igual,Gleich,Equal
+Mayor Que,Größer Als,Greater Than
+Menor Que,Weniger Als,Less Than
+Mayor o Igual Que,Größer Als oder Gleich,Greater Than or Equal To
+Menor o Igual Que,Weniger Als oder Gleich,Less Than or Equal To
+Número Primo,Primzahl,Prime Number
+Cuadrado,Quadrat,Square
+Cubo,Kubik,Cube
+Triángulo,Dreieck,Triangle
+Círculo,Kreis,Circle
+Rectángulo,Rechteck,Rectangle
+Diámetro,Durchmesser,Diameter
+Radio,Radius,Radius
+Área,Fläche,Area
+Volumen,Volumen,Volume
+Porcentaje,Prozent,Percent
+Fracción,Bruch,Fraction
+Números Enteros,Ganze Zahlen,Integer Numbers
+Decimal,Dezimal,Decimal
+Exponente,Exponent,Exponent
+Raíz Cuadrada,Quadratwurzel,Square Root
+Raíz Cúbica,Kubikwurzel,Cube Root
+Logaritmo,Logarithmus,Logarithm
+Ángulo,Winkel,Angle
+Coseno,Kosinus,Cosine
+Seno,Sinus,Sine
+Tangente,Tangens,Tangent
+Circunferencia,Umfang,Circumference
+Diagonal,Diagonale,Diagonal
+Perímetro,Umfang,Perimeter
+Vértice,Ecke,Vertex
+Polígono,Polygon,Polygon
+Paralelogramo,Parallelogramm,Parallelogram
+Trayectoria,Bahn,Trajectory
+Simetría,Symmetrie,Symmetry
+Congruencia,Kongruenz,Congruence
+Coordenadas,Koordinaten,Coordinates
+Ecuación,Gleichung,Equation
+Inecuación,Ungleichung,Inequality
+Derivada,Ableitung,Derivative
+Integral,Integral,Integral
+Área Superficial,Oberflächenbereich,Surface Area
+Volumen,Volumen,Volume
+Matriz,Matrix,Matrix
+Determinante,Determinante,Determinant
+Intersección,Schnittpunkt,Intersection
+Combinatoria,Kombinatorik,Combinatorics
+Probabilidad,Wahrscheinlichkeit,Probability
+Estadísticas,Statistik,Statistics
+Media Aritmética,Durchschnitt,Mean
+Mediana,Median,Median
+Moda,Modus,Mode
+Rango,Bereich,Range
+Mínimo,Minimum,Minimum
+Máximo,Maximum,Maximum
+Intervalo,Intervall,Interval
+Sucesión,Folge,Sequence
+Factorial,Fakultät,Factorial
+Asíntota,Asymptote,Asymptote
+Teorema,Theorem,Theorem
+Conjunto,Menge,Set
+Subconjunto,Teilmenge,Subset
+Número Imaginario,Imaginärzahl,Imaginary Number
+Número Complejo,Komplexe Zahl,Complex Number
+Ángulo Agudo,Scharfer Winkel,Acute Angle
+Ángulo Obtuso,Stumpfer Winkel,Obtuse Angle
+Ángulo Recto,Rechter Winkel,Right Angle
+Ángulo Reflejado,Reflexwinkel,Reflex Angle
+Ángulo Completo,Voller Winkel,Full Angle
+Trigonometría,Trigonometrie,Trigonometry
+Rectángulo Rectángulo,Rechteckiges Prisma,Rectangular Prism
+Cilindro,Zylinder,Cylinder
+Cono,Kegel,Cone
+Esfera,Kugel,Sphere
+Pirámide,Pyramide,Pyramid
+Hipotenusa,Hypotenuse,Hypotenuse
+Cateto,Kathete,Leg
+Área de Superficie,Oberflächenbereich,Surface Area
+Teorema de Pitágoras,Satz des Pythagoras,Pythagorean Theorem
+Teorema de Euclides,Euklidischer Satz,Euclidean Theorem
+Cálculo,Rechnung,Calculus
+Geometría,Geometrie,Geometry
+Función,Funktion,Function
+Notación,Notation,Notation
+Divisor,Teiler,Divisor
+Factor,Faktor,Factor
+Ángulo Complementario,Komplementärwinkel,Complementary Angle
+Ángulo Suplementario,Ergänzungswinkel,Supplementary Angle
+Sistema de Ecuaciones,Gleichungssystem,System of Equations
+Función Lineal,Lineare Funktion,Linear Function
+Notación Científica,Wissenschaftliche Notation,Scientific Notation
+Álgebra,Algebra,Algebra
+Números Racionales,Rationale Zahlen,Rational Numbers
+Números Irracionales,Irrationale Zahlen,Irrational Numbers
+Matriz Inversa,Inverse Matrix,Inversa
+Número Primo Relativo,Relative Primzahl,Relatively Prime
+Teorema de Fermat,Fermatscher Satz,Fermat's Theorem
+Sucesión Aritmética,Arithmetische Sequenz,Arithmetic Sequence
+Sucesión Geométrica,Geometrische Sequenz,Geometric Sequence
+Ecuación Cuadrática,Quadratische Gleichung,Quadratic Equation
+Regla de Sarrus,Sarrus's Rule,Sarrus's Rule
+Sistema de Coordenadas,Koordinatensystem,Coordinate System
+Eje de Simetría,Symmetrieachse,Axis of Symmetry
+Exponencial,Exponential,Exponential
+Lógica Booleana,Boolesche Logik,Boolean Logic
+Geometría Analítica,Analytische Geometrie,Analytic Geometry
+Función Cuadrática,Quadratische Funktion,Quadratic Function
+Números Complejos,Komplexe Zahlen,Complex Numbers
+Círculo unitario,Einheitskreis,Unit Circle
+Cota Superior,Obere Schranke,Upper Bound
+Cota Inferior,Untere Schranke,Lower Bound
+Teorema de Rolle,Satz von Rolle,Rolle's Theorem
+Sistema de Inecuaciones,Ungleichungssystem,System of Inequalities
+Punto de Inflexión,Wendepunkt,Inflection Point
+Ángulo de Inclinación,Neigungswinkel,Slope Angle
+Coeficiente Binomial,Binomialkoeffizient,Binomial Coefficient
+Recta Tangente,Tangentenlinie,Tangent Line
+Álgebra Lineal,Lineare Algebra,Linear Algebra
+Análisis Matemático,Mathematische Analyse,Mathematical Analysis
+Transformada de Fourier,Fourier-Transformation,Fourier Transform
+Valor Absoluto,Absolutwert,Absolute Value
+Ecuación Diferencial,Differentialgleichung,Differential Equation
+Espacio Vectorial,Vektorraum,Vector Space
+Teorema de Pitágoras,Satz des Pythagoras,Pythagorean Theorem
+Álgebra Lineal,Lineare Algebra,Linear Algebra
+Geometría Analítica,Analytische Geometrie,Analytic Geometry
+Matriz Inversa,Inverse Matrix,Inverse
+Números Racionales,Rationale Zahlen,Rational Numbers
+Números Irracionales,Irrationale Zahlen,Irrational Numbers
+Integral Definida,Definites Integral,Definite Integral
+Derivada Parcial,Partielle Ableitung,Partial Derivative
+Sucesión Fibonacci,Fibonacci-Folge,Fibonacci Sequence
+Cálculo Vectorial,Vektorrechnung,Vector Calculus
+Función Exponencial,Exponentialfunktion,Exponential Function
+Polinomio Cuadrático,Quadratisches Polynom,Quadratic Polynomial
+Sumatoria,Summation,Summation
+Notación Sigma,Sigma-Notation,Sigma Notation
+Intervalo Abierto,Offenes Intervall,Open Interval
+Punto,Punkt,Point
+Matemáticas,Mathematik,Mathematics
