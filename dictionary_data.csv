@@ -216,11 +216,10 @@ Subcociente,Subquotient,Subquotient
 Geometría discreta,Diskrete Geometrie,Discrete geometry
 Categoría,Lokal kleine Kategorie,Category
 Relación finita matemática,Endlische Relation,Finitary relation
-Límite de una función,Grenzwert,"(ε,δ)-definition of limit"
 Límite,Grenzwert,Limit
 Polo,Polstelle,Zeros and poles
 A priori y a posteriori,Vor und nach,A priori and a posteriori
-Límite superior y límite inferior,Limes superior und Limes inferior,Limit superior and limit inferior
+Límite superior y límite inferior,Oberer Grenzwert und Unterer Grenzwert,Upper limit and lower limit
 Suma,Addition,Addition
 Resta,Subtraktion,Subtraction
 Multiplicación,Multiplikation,Multiplication
@@ -365,3 +364,4 @@ Notación Sigma,Sigma-Notation,Sigma Notation
 Intervalo Abierto,Offenes Intervall,Open Interval
 Punto,Punkt,Point
 Matemáticas,Mathematik,Mathematics
+Promedio,Durchschnitt,Average
